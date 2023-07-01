@@ -1,5 +1,0 @@
-Today, will be exploring **Exceptions and Test Driven Development in Python** 
-
-## Resources:
-
-Python Note for Professional
