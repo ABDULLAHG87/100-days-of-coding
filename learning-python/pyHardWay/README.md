@@ -14,4 +14,4 @@ This project involves replicating all exercises within the materials to understa
 The source code explores various ways of using the print command to sent output to the console.
 It also explains strings literals which can be enclosed in single quote or double quotes
 
-**TAKEAWAY**: if one of the enclosing quotes ' or " is missing it flags the Syntaxs Error
+**TAKEAWAY**: if one of the enclosing quotes ' or " is missing it flags the Syntaxs Error: EOL while scanning the string literal
